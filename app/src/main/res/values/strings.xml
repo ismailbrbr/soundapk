@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">USB DAC Ses</string>
+    <string name="title">USB DAC Ses Seviyesi</string>
+    <string name="no_device">USB ses (Audio) cihazı bulunamadı. DAC\'ı takın.</string>
+    <string name="waiting_permission">USB izni bekleniyor…</string>
+    <string name="permission_denied">USB izni verilmedi.</string>
+    <string name="mode_max">Maksimum (0 dB\'yi aşmayan en yüksek değer, önerilen)</string>
+    <string name="mode_custom">Özel seviye (dB)</string>
+    <string name="hint_db">örn. -6</string>
+    <string name="invalid_db">Geçersiz dB değeri (-127 ile +20 arası).</string>
+    <string name="auto_apply">DAC takılınca otomatik uygula</string>
+    <string name="quiet_mode">Önce kesintisiz yöntemi dene (deneysel)</string>
+    <string name="apply">Uygula</string>
+    <string name="applying">Uygulanıyor…</string>
+    <string name="toast_ok">USB DAC ses seviyesi ayarlandı</string>
+    <string name="toast_fail">USB DAC ses seviyesi ayarlanamadı</string>
+    <string name="note">Bu uygulama yalnızca DAC\'ın donanım ses seviyesini ayarlar; ses akışına dokunmaz, EQ veya dijital kazanç eklemez. Güvenli başlangıç için telefon ses seviyesini düşük tutup yükseltin.</string>
+</resources>

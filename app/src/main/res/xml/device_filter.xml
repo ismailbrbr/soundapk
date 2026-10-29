@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- USB Audio sınıfı, AudioControl alt sınıfı: Apple USB-C DAC dahil tüm USB ses cihazları.
+         Eski uygulamanın boş filtresi her USB cihazında (klavye, hub, iPhone...) açılıyordu. -->
+    <usb-device class="1" subclass="1" />
+</resources>
